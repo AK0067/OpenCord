@@ -43,9 +43,7 @@ takes great caution in emulating official clients exactly, but as it is still in
 
 ### Where download???!?!?!?!?
 
-Since there is no release version yet, use
-this [nightly link](https://nightly.link/materiiapps/opencord/workflows/android/master/opencord.zip)
-to download OpenCord. Download, extract and install the APK contained within. If you are
+Since there is no release version yet, use [this](https://github.com/AK0067/OpenCord/app-debug.apk) to download OpenCord. Download, extract and install the APK. If you are
 reinstalling or updating, you have to uninstall the old version first!
 
 ## Building locally
